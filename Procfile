@@ -1,1 +1,1 @@
-web: gunicorn myPortfolio.wsgi:application --log-file -
+web: gunicorn dayaportfolio.wsgi:application --log-file -
